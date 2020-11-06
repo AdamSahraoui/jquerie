@@ -1,0 +1,4 @@
+
+$('#firstText').empty();
+
+$('#secondText').remove();
